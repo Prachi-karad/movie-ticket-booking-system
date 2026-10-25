@@ -40,7 +40,7 @@ An admin dashboard lets you add movies and shows and track bookings and revenue.
 ```
 movie-ticket-booking-system/
 ├── backend/                         Spring Boot REST API
-│   └── src/main/java/com/pratik/movieticket/
+│   └── src/main/java/com/prachi/movieticket/
 │       ├── controller/              REST controllers
 │       ├── service/                 Business logic
 │       ├── repository/              Spring Data JPA repositories
@@ -95,8 +95,8 @@ Example booking request:
 POST /api/bookings
 {
   "showId": 1,
-  "customerName": "Pratik Raut",
-  "customerEmail": "pratik@example.com",
+  "customerName": "Prachi Karad",
+  "customerEmail": "prachi@example.com",
   "phone": "9876543210",
   "seats": ["C5", "C6"]
 }
@@ -137,4 +137,4 @@ Open **http://localhost:5173**.
 
 ## 👨‍💻 Author
 
-**Pratik Raut** – Java Full Stack Developer
+**Prachi Karad** – Java Full Stack Developer

@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.pratik</groupId>
+    <groupId>com.prachi</groupId>
     <artifactId>movie-ticket-booking</artifactId>
     <version>1.0.0</version>
     <name>movie-ticket-booking</name>
